@@ -13,7 +13,7 @@
 export default {
   data:function () {
     return {
-      messages: ['你好吗？','不好'] 
+      messages: ['你好吗？','不好呀'] 
     }
   },
  
